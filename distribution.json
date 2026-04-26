@@ -1,4 +1,4 @@
-﻿{
+{
     "rss": "https://discord.gg/C73cz5qrwF",
     "servers": [
         {
@@ -199,12 +199,12 @@
                 },
                 {
                     "artifact": {
-                        "url": "https://github.com/FelpsDeveloper3001/familia-foster-modpack/releases/download/v1.0.0/Ash Of Sin-Better AI-1.20.1-1.1.4.jar",
+                        "url": "https://github.com/FelpsDeveloper3001/familia-foster-modpack/releases/download/v1.0.0/Ash.Of.Sin-Better.AI-1.20.1-1.1.4.jar",
                         "MD5": "07214d308bf020db4010fe617c27e973",
                         "size": 82263
                     },
-                    "name": "Ash Of Sin-Better AI",
-                    "id": "com.mod:Ash Of Sin-Better AI:1.0.0",
+                    "name": "Ash.Of.Sin-Better.AI",
+                    "id": "com.mod:Ash.Of.Sin-Better.AI:1.0.0",
                     "type": "ForgeMod",
                     "required": {
                         "value": true
@@ -212,12 +212,12 @@
                 },
                 {
                     "artifact": {
-                        "url": "https://github.com/FelpsDeveloper3001/familia-foster-modpack/releases/download/v1.0.0/Ash Of Sin-Custom Anti Seat Entity-1.20.1-1.0.1.jar",
+                        "url": "https://github.com/FelpsDeveloper3001/familia-foster-modpack/releases/download/v1.0.0/Ash.Of.Sin-Custom.Anti.Seat.Entity-1.20.1-1.0.1.jar",
                         "MD5": "56a434ac6e60b977736bb262f44cf8ed",
                         "size": 63730
                     },
-                    "name": "Ash Of Sin-Custom Anti Seat Entity",
-                    "id": "com.mod:Ash Of Sin-Custom Anti Seat Entity:1.0.0",
+                    "name": "Ash.Of.Sin-Custom.Anti.Seat.Entity",
+                    "id": "com.mod:Ash.Of.Sin-Custom.Anti.Seat.Entity:1.0.0",
                     "type": "ForgeMod",
                     "required": {
                         "value": true
@@ -225,12 +225,12 @@
                 },
                 {
                     "artifact": {
-                        "url": "https://github.com/FelpsDeveloper3001/familia-foster-modpack/releases/download/v1.0.0/Ash Of Sin-No More Invalid Statistic-1.20.1-1.0.0.jar",
+                        "url": "https://github.com/FelpsDeveloper3001/familia-foster-modpack/releases/download/v1.0.0/Ash.Of.Sin-No.More.Invalid.Statistic-1.20.1-1.0.0.jar",
                         "MD5": "51661434443481a8325beae379fc4a28",
                         "size": 66292
                     },
-                    "name": "Ash Of Sin-No More Invalid Statistic",
-                    "id": "com.mod:Ash Of Sin-No More Invalid Statistic:1.0.0",
+                    "name": "Ash.Of.Sin-No.More.Invalid.Statistic",
+                    "id": "com.mod:Ash.Of.Sin-No.More.Invalid.Statistic:1.0.0",
                     "type": "ForgeMod",
                     "required": {
                         "value": true
@@ -238,12 +238,12 @@
                 },
                 {
                     "artifact": {
-                        "url": "https://github.com/FelpsDeveloper3001/familia-foster-modpack/releases/download/v1.0.0/Ash Of Sin-No More Too Many Structures-1.20.1-1.0.9.jar",
+                        "url": "https://github.com/FelpsDeveloper3001/familia-foster-modpack/releases/download/v1.0.0/Ash.Of.Sin-No.More.Too.Many.Structures-1.20.1-1.0.9.jar",
                         "MD5": "f5e6e3ee34b81107a03b51bd9e234291",
                         "size": 88634
                     },
-                    "name": "Ash Of Sin-No More Too Many Structures",
-                    "id": "com.mod:Ash Of Sin-No More Too Many Structures:1.0.0",
+                    "name": "Ash.Of.Sin-No.More.Too.Many.Structures",
+                    "id": "com.mod:Ash.Of.Sin-No.More.Too.Many.Structures:1.0.0",
                     "type": "ForgeMod",
                     "required": {
                         "value": true
@@ -251,12 +251,12 @@
                 },
                 {
                     "artifact": {
-                        "url": "https://github.com/FelpsDeveloper3001/familia-foster-modpack/releases/download/v1.0.0/Ash Of Sin-Soul Like Boss Battle-1.20.1-1.0.7.jar",
+                        "url": "https://github.com/FelpsDeveloper3001/familia-foster-modpack/releases/download/v1.0.0/Ash.Of.Sin-Soul.Like.Boss.Battle-1.20.1-1.0.7.jar",
                         "MD5": "99b96326a66df62f2230be6dabb5ecb8",
                         "size": 69332
                     },
-                    "name": "Ash Of Sin-Soul Like Boss Battle",
-                    "id": "com.mod:Ash Of Sin-Soul Like Boss Battle:1.0.0",
+                    "name": "Ash.Of.Sin-Soul.Like.Boss.Battle",
+                    "id": "com.mod:Ash.Of.Sin-Soul.Like.Boss.Battle:1.0.0",
                     "type": "ForgeMod",
                     "required": {
                         "value": true
@@ -264,12 +264,12 @@
                 },
                 {
                     "artifact": {
-                        "url": "https://github.com/FelpsDeveloper3001/familia-foster-modpack/releases/download/v1.0.0/ATi Structures Default V1.4.2 (1.20+).jar",
+                        "url": "https://github.com/FelpsDeveloper3001/familia-foster-modpack/releases/download/v1.0.0/ATi.Structures.Default.V1.4.2.(1.20+).jar",
                         "MD5": "8e613645ef4ad6583edd0a41b7188bba",
                         "size": 3149756
                     },
-                    "name": "ATi Structures Default V1.4.2 (1.20+)",
-                    "id": "com.mod:ATi Structures Default V1.4.2 (1.20+):1.0.0",
+                    "name": "ATi.Structures.Default.V1.4.2.(1.20+)",
+                    "id": "com.mod:ATi.Structures.Default.V1.4.2.(1.20+):1.0.0",
                     "type": "ForgeMod",
                     "required": {
                         "value": true
@@ -797,12 +797,12 @@
                 },
                 {
                     "artifact": {
-                        "url": "https://github.com/FelpsDeveloper3001/familia-foster-modpack/releases/download/v1.0.0/Dodos Mobs 1.0.1 beta.jar",
+                        "url": "https://github.com/FelpsDeveloper3001/familia-foster-modpack/releases/download/v1.0.0/Dodos.Mobs.1.0.1.beta.jar",
                         "MD5": "4d85c0a0fd4875bf4c3db2b467071875",
                         "size": 1197246
                     },
-                    "name": "Dodos Mobs 1.0.1 beta",
-                    "id": "com.mod:Dodos Mobs 1.0.1 beta:1.0.0",
+                    "name": "Dodos.Mobs.1.0.1.beta",
+                    "id": "com.mod:Dodos.Mobs.1.0.1.beta:1.0.0",
                     "type": "ForgeMod",
                     "required": {
                         "value": true
@@ -979,12 +979,12 @@
                 },
                 {
                     "artifact": {
-                        "url": "https://github.com/FelpsDeveloper3001/familia-foster-modpack/releases/download/v1.0.0/EpicFight Nightfall-3.2.5-all.jar",
+                        "url": "https://github.com/FelpsDeveloper3001/familia-foster-modpack/releases/download/v1.0.0/EpicFight.Nightfall-3.2.5-all.jar",
                         "MD5": "e5ca87e11b4bef79c60de5e5cd6b9387",
                         "size": 51366384
                     },
-                    "name": "EpicFight Nightfall",
-                    "id": "com.mod:EpicFight Nightfall:1.0.0",
+                    "name": "EpicFight.Nightfall",
+                    "id": "com.mod:EpicFight.Nightfall:1.0.0",
                     "type": "ForgeMod",
                     "required": {
                         "value": true
@@ -1655,12 +1655,12 @@
                 },
                 {
                     "artifact": {
-                        "url": "https://github.com/FelpsDeveloper3001/familia-foster-modpack/releases/download/v1.0.0/Krypton FNP-forge-1.20.1-0.2.28.2-1.20.1.jar",
+                        "url": "https://github.com/FelpsDeveloper3001/familia-foster-modpack/releases/download/v1.0.0/Krypton.FNP-forge-1.20.1-0.2.28.2-1.20.1.jar",
                         "MD5": "cdf00793d38e0d689d4bb4edb18d78ff",
                         "size": 1794016
                     },
-                    "name": "Krypton FNP-forge",
-                    "id": "com.mod:Krypton FNP-forge:1.0.0",
+                    "name": "Krypton.FNP-forge",
+                    "id": "com.mod:Krypton.FNP-forge:1.0.0",
                     "type": "ForgeMod",
                     "required": {
                         "value": true
@@ -1980,12 +1980,12 @@
                 },
                 {
                     "artifact": {
-                        "url": "https://github.com/FelpsDeveloper3001/familia-foster-modpack/releases/download/v1.0.0/Nightfall Enhance-1.0.7.jar",
+                        "url": "https://github.com/FelpsDeveloper3001/familia-foster-modpack/releases/download/v1.0.0/Nightfall.Enhance-1.0.7.jar",
                         "MD5": "1fc24cd5d6653094a5bf9223ab8e0386",
                         "size": 7587901
                     },
-                    "name": "Nightfall Enhance",
-                    "id": "com.mod:Nightfall Enhance:1.0.0",
+                    "name": "Nightfall.Enhance",
+                    "id": "com.mod:Nightfall.Enhance:1.0.0",
                     "type": "ForgeMod",
                     "required": {
                         "value": true
@@ -2786,7 +2786,7 @@
                 },
                 {
                     "artifact": {
-                        "url": "https://github.com/FelpsDeveloper3001/familia-foster-modpack/releases/download/v1.0.0/visual_keybinder-1.20.1 - 0.1.12.jar",
+                        "url": "https://github.com/FelpsDeveloper3001/familia-foster-modpack/releases/download/v1.0.0/visual_keybinder-1.20.1.-.0.1.12.jar",
                         "MD5": "3a45316762496820ab1710f97ef38a87",
                         "size": 258438
                     },
@@ -2979,7 +2979,6 @@
                         "url": "https://download939.mediafire.com/1ay4xzoxfqagvF5IKS2DpP2yF_xSSEZgHmMWV_vDu-UdB_8iovGwdM2AS_of6AQv6NykubRDI2ttJJfElV9220qJjCB3WCgkOHCUpRsUsiQS8yTYpBbZlIu4oYQWnkvlZVdExi3eC1JAI_ynHwGuq7uI6gRT6yEge69T26BrSFWFHGc/84q38fncks6varp/zmedievalmusic-1.20.1-2.2.jar"
                     }
                 },
-
                 {
                     "artifact": {
                         "url": "https://github.com/FelpsDeveloper3001/familia-foster-modpack/releases/download/v1.0.0/[1.20.1] SecurityCraft v1.10.1.jar",
@@ -2992,6 +2991,95 @@
                     "required": {
                         "value": true
                     }
+                },
+                {
+                    "artifact": {
+                        "path": "resourcepacks/BSL_v8.4.zip",
+                        "url": "https://github.com/FelpsDeveloper3001/familia-foster-modpack/releases/download/v1.0.0/BSL_v8.4.zip",
+                        "MD5": "9cbe8c2b70a992a50853875482eec66a",
+                        "size": 1105442
+                    },
+                    "name": "BSL_v8.4",
+                    "id": "com.resourcepack:.0.0",
+                    "type": "File",
+                    "required": {
+                        "def": true,
+                        "value": false
+                    }
+                },
+                {
+                    "artifact": {
+                        "path": "resourcepacks/ComplementaryReimagined_r5.7.1.zip",
+                        "url": "https://github.com/FelpsDeveloper3001/familia-foster-modpack/releases/download/v1.0.0/ComplementaryReimagined_r5.7.1.zip",
+                        "MD5": "bc5f557bb6844d27e7b7891170544ea9",
+                        "size": 522970
+                    },
+                    "name": "ComplementaryReimagined_r5.7.1",
+                    "id": "com.resourcepack:.0.0",
+                    "type": "File",
+                    "required": {
+                        "def": true,
+                        "value": false
+                    }
+                },
+                {
+                    "artifact": {
+                        "path": "resourcepacks/ComplementaryUnbound_r5.7.1.zip",
+                        "url": "https://github.com/FelpsDeveloper3001/familia-foster-modpack/releases/download/v1.0.0/ComplementaryUnbound_r5.7.1.zip",
+                        "MD5": "b535d194c7115b360860e226c65ae3f2",
+                        "size": 522973
+                    },
+                    "name": "ComplementaryUnbound_r5.7.1",
+                    "id": "com.resourcepack:.0.0",
+                    "type": "File",
+                    "required": {
+                        "def": true,
+                        "value": false
+                    }
+                },
+                {
+                    "artifact": {
+                        "path": "resourcepacks/MakeUp-UltraFast-9.4c.zip",
+                        "url": "https://github.com/FelpsDeveloper3001/familia-foster-modpack/releases/download/v1.0.0/MakeUp-UltraFast-9.4c.zip",
+                        "MD5": "230150ebf7005afb032934f6779ae46b",
+                        "size": 402680
+                    },
+                    "name": "MakeUp-UltraFast-9.4c",
+                    "id": "com.resourcepack:.0.0",
+                    "type": "File",
+                    "required": {
+                        "def": true,
+                        "value": false
+                    }
+                },
+                {
+                    "artifact": {
+                        "path": "resourcepacks/Solas.Shader.V3.0.zip",
+                        "url": "https://github.com/FelpsDeveloper3001/familia-foster-modpack/releases/download/v1.0.0/Solas.Shader.V3.0.zip",
+                        "MD5": "5fcf212f159e4bb7725df32762df6ecf",
+                        "size": 1306582
+                    },
+                    "name": "Solas.Shader.V3.0",
+                    "id": "com.resourcepack:.0.0",
+                    "type": "File",
+                    "required": {
+                        "def": true,
+                        "value": false
+                    }
+                },
+                {
+                    "required": {
+                        "value": true
+                    },
+                    "name": "last_world.fmdata",
+                    "artifact": {
+                        "path": "fancymenu_data/last_world.fmdata",
+                        "url": "https://github.com/FelpsDeveloper3001/familia-foster-modpack/releases/download/v1.0.0/fancymenu_data/last_world.fmdata",
+                        "MD5": "7251d98cb17cec67c87e04b1b0009dd1",
+                        "size": 105
+                    },
+                    "type": "File",
+                    "id": "com.fancymenu:last_world.fmdata:1.0.0"
                 }
             ],
             "name": "Familia Foster Season 3",
