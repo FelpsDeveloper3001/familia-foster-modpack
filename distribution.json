@@ -11,9 +11,9 @@
                             "name": "Minecraft Forge (version.json)",
                             "type": "VersionManifest",
                             "artifact": {
-                                "size": 6068906,
-                                "MD5": "f6cb02d79d0812bcf127840f47a2b560",
-                                "url": "https://maven.minecraftforge.net/net/minecraftforge/forge/1.20.1-47.4.4/forge-1.20.1-47.4.4-installer.jar"
+                                "size": 16612,
+                                "MD5": "6e9bd9bd26e3f23270e814011959c8a4",
+                                "url": "https://github.com/FelpsDeveloper3001/familia-foster-modpack/releases/download/v1.0.0/version.json"
                             }
                         }
                     ],
