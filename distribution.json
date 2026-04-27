@@ -85,6 +85,56 @@
                                 "MD5": "70908fb083a4ca9bf95a3b4101537a9a",
                                 "url": "https://github.com/FelpsDeveloper3001/familia-foster-modpack/releases/download/v1.0.0/lowcodelanguage-1.20.1-47.4.4.jar"
                             }
+                        },
+                        {
+                            "id": "org.ow2.asm:asm:9.7.1",
+                            "name": "asm-9.7.1.jar",
+                            "type": "Library",
+                            "artifact": {
+                                "size": 126093,
+                                "MD5": "e2cdd32d198ad31427d298eee9d39d8d",
+                                "url": "https://github.com/FelpsDeveloper3001/familia-foster-modpack/releases/download/v1.0.0/asm-9.7.1.jar"
+                            }
+                        },
+                        {
+                            "id": "org.ow2.asm:asm-commons:9.7.1",
+                            "name": "asm-commons-9.7.1.jar",
+                            "type": "Library",
+                            "artifact": {
+                                "size": 73459,
+                                "MD5": "8344aea3c8b7d707e9d35a62710e77c9",
+                                "url": "https://github.com/FelpsDeveloper3001/familia-foster-modpack/releases/download/v1.0.0/asm-commons-9.7.1.jar"
+                            }
+                        },
+                        {
+                            "id": "org.ow2.asm:asm-tree:9.7.1",
+                            "name": "asm-tree-9.7.1.jar",
+                            "type": "Library",
+                            "artifact": {
+                                "size": 51939,
+                                "MD5": "e85029f613b6469989cc7cf53fe06b74",
+                                "url": "https://github.com/FelpsDeveloper3001/familia-foster-modpack/releases/download/v1.0.0/asm-tree-9.7.1.jar"
+                            }
+                        },
+                        {
+                            "id": "org.ow2.asm:asm-util:9.7.1",
+                            "name": "asm-util-9.7.1.jar",
+                            "type": "Library",
+                            "artifact": {
+                                "size": 94519,
+                                "MD5": "36d373a9cd6cad9b35db9f984c6b4bbb",
+                                "url": "https://github.com/FelpsDeveloper3001/familia-foster-modpack/releases/download/v1.0.0/asm-util-9.7.1.jar"
+                            }
+                        },
+                        {
+                            "id": "org.ow2.asm:asm-analysis:9.7.1",
+                            "name": "asm-analysis-9.7.1.jar",
+                            "type": "Library",
+                            "artifact": {
+                                "size": 35126,
+                                "MD5": "4cd9e7178dfb85371bba3077e40cd514",
+                                "url": "https://github.com/FelpsDeveloper3001/familia-foster-modpack/releases/download/v1.0.0/asm-analysis-9.7.1.jar"
+                            }
                         }
                     ],
                     "name": "Minecraft Forge 1.20.1-47.4.4",
