@@ -49,7 +49,8 @@
                         { "id": "net.minecraftforge:javafmllanguage:1.20.1-47.4.4", "name": "javafmllanguage-1.20.1-47.4.4.jar", "type": "Library", "artifact": { "size": 16855, "MD5": "f1745993b05666aefd408c091cf104ba", "url": "https://github.com/FelpsDeveloper3001/familia-foster-modpack/releases/download/v1.0.0/javafmllanguage-1.20.1-47.4.4.jar" } },
                         { "id": "net.minecraftforge:mclanguage:1.20.1-47.4.4", "name": "mclanguage-1.20.1-47.4.4.jar", "type": "Library", "artifact": { "size": 4999, "MD5": "4555b9213b0d4632a74e4f2a94f85930", "url": "https://github.com/FelpsDeveloper3001/familia-foster-modpack/releases/download/v1.0.0/mclanguage-1.20.1-47.4.4.jar" } },
                         { "id": "net.minecraftforge:lowcodelanguage:1.20.1-47.4.4", "name": "lowcodelanguage-1.20.1-47.4.4.jar", "type": "Library", "artifact": { "size": 7399, "MD5": "70908fb083a4ca9bf95a3b4101537a9a", "url": "https://github.com/FelpsDeveloper3001/familia-foster-modpack/releases/download/v1.0.0/lowcodelanguage-1.20.1-47.4.4.jar" } },
-                        { "id": "net.minecraft:client:1.20.1-20230612.114412:extra", "name": "client-1.20.1-extra.jar", "type": "Library", "artifact": { "size": 10436626, "MD5": "da6bb1a2c23108392fd6c103da40867c", "url": "https://github.com/FelpsDeveloper3001/familia-foster-modpack/releases/download/v1.0.0/client-1.20.1-extra.jar" } }
+                        { "id": "net.minecraft:client:1.20.1-20230612.114412:extra", "name": "client-1.20.1-extra.jar", "type": "Library", "artifact": { "size": 10436626, "MD5": "da6bb1a2c23108392fd6c103da40867c", "url": "https://github.com/FelpsDeveloper3001/familia-foster-modpack/releases/download/v1.0.0/client-1.20.1-extra.jar" } },
+                        { "id": "net.minecraftforge:forge:1.20.1-47.4.4:universal", "name": "forge-1.20.1-47.4.4-universal.jar", "type": "Library", "artifact": { "size": 2777412, "MD5": "741acd846c62682b37522e5f6262196d", "url": "https://github.com/FelpsDeveloper3001/familia-foster-modpack/releases/download/v1.0.0/forge-1.20.1-47.4.4-universal.jar" } }
                     ],
                     "name": "Minecraft Forge 1.20.1-47.4.4",
                     "id": "net.minecraftforge:forge:1.20.1-47.4.4",
@@ -3021,12 +3022,12 @@
                     "artifact": {
                         "size": 304415885,
                         "MD5": "cb61e6a83f0fd9c873ca3398e4572736",
-                        "url": "https://download939.mediafire.com/1ay4xzoxfqagvF5IKS2DpP2yF_xSSEZgHmMWV_vDu-UdB_8iovGwdM2AS_of6AQv6NykubRDI2ttJJfElV9220qJjCB3WCgkOHCUpRsUsiQS8yTYpBbZlIu4oYQWnkvlZVdExi3eC1JAI_ynHwGuq7uI6gRT6yEge69T26BrSFWFHGc/84q38fncks6varp/zmedievalmusic-1.20.1-2.2.jar"
+                        "url": "https://github.com/FelpsDeveloper3001/familia-foster-modpack/releases/download/v1.0.0/zmedievalmusic-1.20.1-2.2.jar"
                     }
                 },
                 {
                     "artifact": {
-                        "url": "https://download1980.mediafire.com/bpnzwz4eiuzg-Hb8arAgGqt9tIrSm8HRKcNTRh7ybmdpDtMHUJKr83UDHUznAS5T7TSLoCNieX9GNqASe4XOGNFXuLJ-QLQAlrPKVlo_JvELgmX0MnvUfIxeRLviJqO-D98EU7LPSNGQDfFaCM2l7IelUnlZu4cGgL_SA6G-amiVz7c/mgxysfgov8byjbm/%5B1.20.1%5D+SecurityCraft+v1.10.1.jar",
+                        "url": "https://github.com/FelpsDeveloper3001/familia-foster-modpack/releases/download/v1.0.0/SecurityCraft-1.20.1-v1.10.1.jar",
                         "MD5": "9299326e13fa4f10c377ea6b26c771f9",
                         "size": 4769715
                     },
