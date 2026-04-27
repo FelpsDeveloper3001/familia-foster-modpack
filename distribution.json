@@ -5,61 +5,16 @@
             "description": "Servidor principal da Familia Foster Season 3. Conecte-se para jogar!",
             "modules": [
                 {
-                    "subModules": [
-                        {
-                            "id": "1.20.1-forge-47.4.4",
-                            "name": "Minecraft Forge (version.json)",
-                            "type": "VersionManifest",
-                            "artifact": {
-                                "size": 16612,
-                                "MD5": "6e9bd9bd26e3f23270e814011959c8a4",
-                                "url": "https://github.com/FelpsDeveloper3001/familia-foster-modpack/releases/download/v1.0.0/forge-1.20.1-47.4.4-version.json"
-                            }
-                        },
-                        { "id": "cpw.mods:securejarhandler:2.1.10", "name": "securejarhandler-2.1.10.jar", "type": "Library", "artifact": { "size": 88749, "MD5": "d9ff48d1c68388270388b803fa42611e", "url": "https://github.com/FelpsDeveloper3001/familia-foster-modpack/releases/download/v1.0.0/securejarhandler-2.1.10.jar" } },
-                        { "id": "org.ow2.asm:asm:9.7.1", "name": "asm-9.7.1.jar", "type": "Library", "artifact": { "size": 126093, "MD5": "e2cdd32d198ad31427d298eee9d39d8d", "url": "https://github.com/FelpsDeveloper3001/familia-foster-modpack/releases/download/v1.0.0/asm-9.7.1.jar" } },
-                        { "id": "org.ow2.asm:asm-commons:9.7.1", "name": "asm-commons-9.7.1.jar", "type": "Library", "artifact": { "size": 73459, "MD5": "8344aea3c8b7d707e9d35a62710e77c9", "url": "https://github.com/FelpsDeveloper3001/familia-foster-modpack/releases/download/v1.0.0/asm-commons-9.7.1.jar" } },
-                        { "id": "org.ow2.asm:asm-tree:9.7.1", "name": "asm-tree-9.7.1.jar", "type": "Library", "artifact": { "size": 51939, "MD5": "e85029f613b6469989cc7cf53fe06b74", "url": "https://github.com/FelpsDeveloper3001/familia-foster-modpack/releases/download/v1.0.0/asm-tree-9.7.1.jar" } },
-                        { "id": "org.ow2.asm:asm-util:9.7.1", "name": "asm-util-9.7.1.jar", "type": "Library", "artifact": { "size": 94519, "MD5": "36d373a9cd6cad9b35db9f984c6b4bbb", "url": "https://github.com/FelpsDeveloper3001/familia-foster-modpack/releases/download/v1.0.0/asm-util-9.7.1.jar" } },
-                        { "id": "org.ow2.asm:asm-analysis:9.7.1", "name": "asm-analysis-9.7.1.jar", "type": "Library", "artifact": { "size": 35126, "MD5": "4cd9e7178dfb85371bba3077e40cd514", "url": "https://github.com/FelpsDeveloper3001/familia-foster-modpack/releases/download/v1.0.0/asm-analysis-9.7.1.jar" } },
-                        { "id": "net.minecraftforge:accesstransformers:8.0.4", "name": "accesstransformers-8.0.4.jar", "type": "Library", "artifact": { "size": 77756, "MD5": "f0d3533f9437ba4428eaee9f28f7ecd9", "url": "https://github.com/FelpsDeveloper3001/familia-foster-modpack/releases/download/v1.0.0/accesstransformers-8.0.4.jar" } },
-                        { "id": "org.antlr:antlr4-runtime:4.9.1", "name": "antlr4-runtime-4.9.1.jar", "type": "Library", "artifact": { "size": 337868, "MD5": "0dcc4b860d5d8d2852ab94d58c56ca2d", "url": "https://github.com/FelpsDeveloper3001/familia-foster-modpack/releases/download/v1.0.0/antlr4-runtime-4.9.1.jar" } },
-                        { "id": "net.minecraftforge:eventbus:6.0.5", "name": "eventbus-6.0.5.jar", "type": "Library", "artifact": { "size": 53985, "MD5": "2a6245210b446b2144071e71ca13432b", "url": "https://github.com/FelpsDeveloper3001/familia-foster-modpack/releases/download/v1.0.0/eventbus-6.0.5.jar" } },
-                        { "id": "net.minecraftforge:forgespi:7.0.1", "name": "forgespi-7.0.1.jar", "type": "Library", "artifact": { "size": 29831, "MD5": "bd34d20287dc95201fe9475a8bbc2540", "url": "https://github.com/FelpsDeveloper3001/familia-foster-modpack/releases/download/v1.0.0/forgespi-7.0.1.jar" } },
-                        { "id": "net.minecraftforge:coremods:5.2.4", "name": "coremods-5.2.4.jar", "type": "Library", "artifact": { "size": 31872, "MD5": "5295505357ba9b98450c5e3121f82191", "url": "https://github.com/FelpsDeveloper3001/familia-foster-modpack/releases/download/v1.0.0/coremods-5.2.4.jar" } },
-                        { "id": "cpw.mods:modlauncher:10.0.9", "name": "modlauncher-10.0.9.jar", "type": "Library", "artifact": { "size": 130343, "MD5": "07507d18d72661f8ae6a5da75bbf35be", "url": "https://github.com/FelpsDeveloper3001/familia-foster-modpack/releases/download/v1.0.0/modlauncher-10.0.9.jar" } },
-                        { "id": "net.minecraftforge:unsafe:0.2.0", "name": "unsafe-0.2.0.jar", "type": "Library", "artifact": { "size": 2834, "MD5": "2d1016ebe4c1a63dd50a59d26bd12db1", "url": "https://github.com/FelpsDeveloper3001/familia-foster-modpack/releases/download/v1.0.0/unsafe-0.2.0.jar" } },
-                        { "id": "net.minecraftforge:mergetool:1.1.5:api", "name": "mergetool-1.1.5-api.jar", "type": "Library", "artifact": { "size": 2572, "MD5": "8df9c5bf87d004ddb884eca99bc2a4b1", "url": "https://github.com/FelpsDeveloper3001/familia-foster-modpack/releases/download/v1.0.0/mergetool-1.1.5-api.jar" } },
-                        { "id": "com.electronwill.night-config:core:3.6.4", "name": "core-3.6.4.jar", "type": "Library", "artifact": { "size": 199834, "MD5": "d83ab07267e402131fb93d899a57f5cd", "url": "https://github.com/FelpsDeveloper3001/familia-foster-modpack/releases/download/v1.0.0/core-3.6.4.jar" } },
-                        { "id": "com.electronwill.night-config:toml:3.6.4", "name": "toml-3.6.4.jar", "type": "Library", "artifact": { "size": 31816, "MD5": "bc95d0709fff2164b01fd09fbc988be8", "url": "https://github.com/FelpsDeveloper3001/familia-foster-modpack/releases/download/v1.0.0/toml-3.6.4.jar" } },
-                        { "id": "org.apache.maven:maven-artifact:3.8.5", "name": "maven-artifact-3.8.5.jar", "type": "Library", "artifact": { "size": 58077, "MD5": "ce473b0d9fbfd10fe147f03fe8707d67", "url": "https://github.com/FelpsDeveloper3001/familia-foster-modpack/releases/download/v1.0.0/maven-artifact-3.8.5.jar" } },
-                        { "id": "net.jodah:typetools:0.6.3", "name": "typetools-0.6.3.jar", "type": "Library", "artifact": { "size": 18281, "MD5": "d4a375bf382f726cf1a650ccb38a736c", "url": "https://github.com/FelpsDeveloper3001/familia-foster-modpack/releases/download/v1.0.0/typetools-0.6.3.jar" } },
-                        { "id": "net.minecrell:terminalconsoleappender:1.2.0", "name": "terminalconsoleappender-1.2.0.jar", "type": "Library", "artifact": { "size": 15977, "MD5": "679363fa893293791e55a21f81342f87", "url": "https://github.com/FelpsDeveloper3001/familia-foster-modpack/releases/download/v1.0.0/terminalconsoleappender-1.2.0.jar" } },
-                        { "id": "org.jline:jline-reader:3.12.1", "name": "jline-reader-3.12.1.jar", "type": "Library", "artifact": { "size": 150765, "MD5": "a2e7b012cd9802f83321187409174a94", "url": "https://github.com/FelpsDeveloper3001/familia-foster-modpack/releases/download/v1.0.0/jline-reader-3.12.1.jar" } },
-                        { "id": "org.jline:jline-terminal:3.12.1", "name": "jline-terminal-3.12.1.jar", "type": "Library", "artifact": { "size": 211712, "MD5": "3c52be5ab5e3847be6e62269de924cb0", "url": "https://github.com/FelpsDeveloper3001/familia-foster-modpack/releases/download/v1.0.0/jline-terminal-3.12.1.jar" } },
-                        { "id": "org.spongepowered:mixin:0.8.5", "name": "mixin-0.8.5.jar", "type": "Library", "artifact": { "size": 1089277, "MD5": "19b3a2ae9e445a6e626fd7d1648cfcb8", "url": "https://github.com/FelpsDeveloper3001/familia-foster-modpack/releases/download/v1.0.0/mixin-0.8.5.jar" } },
-                        { "id": "org.openjdk.nashorn:nashorn-core:15.4", "name": "nashorn-core-15.4.jar", "type": "Library", "artifact": { "size": 2167292, "MD5": "a9b3360e6a486cf62c1952c7816b7d97", "url": "https://github.com/FelpsDeveloper3001/familia-foster-modpack/releases/download/v1.0.0/nashorn-core-15.4.jar" } },
-                        { "id": "net.minecraftforge:JarJarSelector:0.3.19", "name": "JarJarSelector-0.3.19.jar", "type": "Library", "artifact": { "size": 17374, "MD5": "2bb6cbe0e6c6fbcd8f92d2e6b1ea678e", "url": "https://github.com/FelpsDeveloper3001/familia-foster-modpack/releases/download/v1.0.0/JarJarSelector-0.3.19.jar" } },
-                        { "id": "net.minecraftforge:JarJarMetadata:0.3.19", "name": "JarJarMetadata-0.3.19.jar", "type": "Library", "artifact": { "size": 15895, "MD5": "9633546d299d4282ca68d10582be1c8f", "url": "https://github.com/FelpsDeveloper3001/familia-foster-modpack/releases/download/v1.0.0/JarJarMetadata-0.3.19.jar" } },
-                        { "id": "cpw.mods:bootstraplauncher:1.1.2", "name": "bootstraplauncher-1.1.2.jar", "type": "Library", "artifact": { "size": 8284, "MD5": "48f5255aa337344c467c0150d347813d", "url": "https://github.com/FelpsDeveloper3001/familia-foster-modpack/releases/download/v1.0.0/bootstraplauncher-1.1.2.jar" } },
-                        { "id": "net.minecraftforge:JarJarFileSystems:0.3.19", "name": "JarJarFileSystems-0.3.19.jar", "type": "Library", "artifact": { "size": 32195, "MD5": "c2be1a88b63eb1b58b00ab6e498cd97d", "url": "https://github.com/FelpsDeveloper3001/familia-foster-modpack/releases/download/v1.0.0/JarJarFileSystems-0.3.19.jar" } },
-                        { "id": "net.minecraftforge:fmlloader:1.20.1-47.4.4", "name": "fmlloader-1.20.1-47.4.4.jar", "type": "Library", "artifact": { "size": 267079, "MD5": "60b11a9a271f6620a57703102aa55df8", "url": "https://github.com/FelpsDeveloper3001/familia-foster-modpack/releases/download/v1.0.0/fmlloader-1.20.1-47.4.4.jar" } },
-                        { "id": "net.minecraftforge:fmlearlydisplay:1.20.1-47.4.4", "name": "fmlearlydisplay-1.20.1-47.4.4.jar", "type": "Library", "artifact": { "size": 170518, "MD5": "4419cbc6cccd572a769197348aa5547b", "url": "https://github.com/FelpsDeveloper3001/familia-foster-modpack/releases/download/v1.0.0/fmlearlydisplay-1.20.1-47.4.4.jar" } },
-                        { "id": "net.minecraftforge:fmlcore:1.20.1-47.4.4", "name": "fmlcore-1.20.1-47.4.4.jar", "type": "Library", "artifact": { "size": 118914, "MD5": "5f1c78a3ed315ecc0e7e591aab00a60d", "url": "https://github.com/FelpsDeveloper3001/familia-foster-modpack/releases/download/v1.0.0/fmlcore-1.20.1-47.4.4.jar" } },
-                        { "id": "net.minecraftforge:javafmllanguage:1.20.1-47.4.4", "name": "javafmllanguage-1.20.1-47.4.4.jar", "type": "Library", "artifact": { "size": 16855, "MD5": "f1745993b05666aefd408c091cf104ba", "url": "https://github.com/FelpsDeveloper3001/familia-foster-modpack/releases/download/v1.0.0/javafmllanguage-1.20.1-47.4.4.jar" } },
-                        { "id": "net.minecraftforge:mclanguage:1.20.1-47.4.4", "name": "mclanguage-1.20.1-47.4.4.jar", "type": "Library", "artifact": { "size": 4999, "MD5": "4555b9213b0d4632a74e4f2a94f85930", "url": "https://github.com/FelpsDeveloper3001/familia-foster-modpack/releases/download/v1.0.0/mclanguage-1.20.1-47.4.4.jar" } },
-                        { "id": "net.minecraftforge:lowcodelanguage:1.20.1-47.4.4", "name": "lowcodelanguage-1.20.1-47.4.4.jar", "type": "Library", "artifact": { "size": 7399, "MD5": "70908fb083a4ca9bf95a3b4101537a9a", "url": "https://github.com/FelpsDeveloper3001/familia-foster-modpack/releases/download/v1.0.0/lowcodelanguage-1.20.1-47.4.4.jar" } },
-                        { "id": "net.minecraft:client:1.20.1-20230612.114412:extra", "name": "client-1.20.1-extra.jar", "type": "Library", "artifact": { "size": 10436626, "MD5": "da6bb1a2c23108392fd6c103da40867c", "url": "https://github.com/FelpsDeveloper3001/familia-foster-modpack/releases/download/v1.0.0/client-1.20.1-extra.jar" } },
-                        { "id": "net.minecraft:client:1.20.1-20230612.114412:slim", "name": "client-1.20.1-slim.jar", "type": "Library", "artifact": { "size": 12592249, "MD5": "28edebec7b5a007bc9961ee9bab4d764", "url": "https://github.com/FelpsDeveloper3001/familia-foster-modpack/releases/download/v1.0.0/client-1.20.1-slim.jar" } },
-                        { "id": "net.minecraftforge:forge:1.20.1-47.4.4:universal", "name": "forge-1.20.1-47.4.4-universal.jar", "type": "Library", "artifact": { "size": 2777412, "MD5": "741acd846c62682b37522e5f6262196d", "url": "https://github.com/FelpsDeveloper3001/familia-foster-modpack/releases/download/v1.0.0/forge-1.20.1-47.4.4-universal.jar" } }
-                    ],
-                    "name": "Minecraft Forge 1.20.1-47.4.4",
-                    "id": "net.minecraftforge:forge:1.20.1-47.4.4",
-                    "type": "ForgeHosted",
+                    "id": "forge-complete:1.20.1-forge-47.4.4",
+                    "name": "Minecraft Forge 1.20.1-47.4.4 (Complete)",
+                    "type": "File",
                     "artifact": {
-                        "url": "https://maven.minecraftforge.net/net/minecraftforge/forge/1.20.1-47.4.4/forge-1.20.1-47.4.4-installer.jar",
-                        "MD5": "f6cb02d79d0812bcf127840f47a2b560",
-                        "size": 6068906
+                        "size": 68142040,
+                        "MD5": "e71163538068db01e0e0a0c56e71ea7c",
+                        "url": "https://github.com/FelpsDeveloper3001/familia-foster-modpack/releases/download/v1.0.0/forge-1.20.1-forge-47.4.4-complete.zip",
+                        "path": ""
+                    }
+                },
                     }
                 },
                 {
@@ -2033,19 +1988,6 @@
                     },
                     "name": "Nightfall.Enhance",
                     "id": "com.mod:Nightfall.Enhance:1.0.0",
-                    "type": "ForgeMod",
-                    "required": {
-                        "value": true
-                    }
-                },
-                {
-                    "artifact": {
-                        "url": "https://github.com/FelpsDeveloper3001/familia-foster-modpack/releases/download/v1.0.0/noworldgenwarning-1.0.0.jar",
-                        "MD5": "0fcf3164e76c2cd816dd742179236bda",
-                        "size": 5370
-                    },
-                    "name": "noworldgenwarning",
-                    "id": "com.mod:noworldgenwarning:1.0.0",
                     "type": "ForgeMod",
                     "required": {
                         "value": true
