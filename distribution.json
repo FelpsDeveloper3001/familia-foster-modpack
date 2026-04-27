@@ -5,7 +5,18 @@
             "description": "Servidor principal da Familia Foster Season 3. Conecte-se para jogar!",
             "modules": [
                 {
-                    "subModules": [],
+                    "subModules": [
+                        {
+                            "id": "1.20.1-forge-47.4.4",
+                            "name": "Minecraft Forge (version.json)",
+                            "type": "VersionManifest",
+                            "artifact": {
+                                "size": 0,
+                                "MD5": "",
+                                "url": "https://maven.minecraftforge.net/net/minecraftforge/forge/1.20.1-47.4.4/forge-1.20.1-47.4.4-installer.jar"
+                            }
+                        }
+                    ],
                     "name": "Minecraft Forge 1.20.1-47.4.4",
                     "id": "net.minecraftforge:forge:1.20.1-47.4.4",
                     "type": "ForgeHosted",
