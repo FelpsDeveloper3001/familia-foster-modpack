@@ -145,6 +145,26 @@
                                 "MD5": "da6bb1a2c23108392fd6c103da40867c",
                                 "url": "https://github.com/FelpsDeveloper3001/familia-foster-modpack/releases/download/v1.0.0/client-1.20.1-extra.jar"
                             }
+                        },
+                        {
+                            "id": "net.minecraftforge:fmlearlydisplay:1.20.1-47.4.4",
+                            "name": "fmlearlydisplay-1.20.1-47.4.4.jar",
+                            "type": "Library",
+                            "artifact": {
+                                "size": 170518,
+                                "MD5": "4419cbc6cccd572a769197348aa5547b",
+                                "url": "https://github.com/FelpsDeveloper3001/familia-foster-modpack/releases/download/v1.0.0/fmlearlydisplay-1.20.1-47.4.4.jar"
+                            }
+                        },
+                        {
+                            "id": "net.minecraftforge:fmlloader:1.20.1-47.4.4",
+                            "name": "fmlloader-1.20.1-47.4.4.jar",
+                            "type": "Library",
+                            "artifact": {
+                                "size": 267079,
+                                "MD5": "60b11a9a271f6620a57703102aa55df8",
+                                "url": "https://github.com/FelpsDeveloper3001/familia-foster-modpack/releases/download/v1.0.0/fmlloader-1.20.1-47.4.4.jar"
+                            }
                         }
                     ],
                     "name": "Minecraft Forge 1.20.1-47.4.4",
