@@ -11,8 +11,8 @@
                     "type": "ForgeHosted",
                     "artifact": {
                         "url": "https://maven.minecraftforge.net/net/minecraftforge/forge/1.20.1-47.4.4/forge-1.20.1-47.4.4-installer.jar",
-                        "MD5": "",
-                        "size": 0
+                        "MD5": "f6cb02d79d0812bcf127840f47a2b560",
+                        "size": 6068906
                     }
                 },
                 {
